@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "tells you what tier your deck is",
     "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
     "author": "Jared Grimes",
     "dependencies": {
         "discord.io": "^2.5.3",
