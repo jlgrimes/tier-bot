@@ -1,0 +1,13 @@
+{
+    "name": "tierbot",
+    "version": "1.0.0",
+    "description": "tells you what tier your deck is",
+    "main": "bot.js",
+    "author": "Jared Grimes",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "discord.js": "^12.1.1",
+        "dotenv": "^8.2.0",
+        "winston": "^3.2.1"
+    }
+}
