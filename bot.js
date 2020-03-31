@@ -37,6 +37,7 @@ client.on('message', msg => {
         if (cmd === 'tier') {
             msg.reply(tier(deck))
         }
+        
         if (cmd === 'toptenancientoriginscards') {
             msg.reply('mega tyranitar is the best card of all time')
         }
